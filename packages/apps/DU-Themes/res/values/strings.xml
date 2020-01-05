@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">Themes</string>
+
+    <!-- Accent Picker -->
+    <string name="accent_picker_dialog_title">Select an accent</string>
+    <string name="theme_accent_picker_title">Accent color</string>
+    <string name="theme_accent_picker_summary">Select system theme accent color</string>
+    <string name="theme_accent_picker_default">Default</string>
+    <string name="accent_picker_stock_colors">Stock</string>
+    <string name="accent_picker_custom_colors">Custom</string>
+
+    <!-- Dark theme -->
+    <string name="dark_theme_title">Dark theme</string>
+
+    <!-- Fonts -->
+    <string name="font_type_title">Font type</string>
+    <string name="font_type_summary">Select font type</string>
+    <string name="font_type_default">Default</string>
+    <string name="font_type_noto_serif">Noto Serif / Source Sans Pro</string>
+
+    <!-- Adaptive icon shapes -->
+    <string name="adaptive_icon_shape_default">Default</string>
+    <string name="adaptive_icon_shape_teardrop">Teardrop</string>
+    <string name="adaptive_icon_shape_squircle">Squircle</string>
+    <string name="adaptive_icon_shape_roundedrect">Rounded Rectangle</string>
+    <string name="adaptive_icon_shape_title">Adapative icon shape</string>
+    <string name="adaptive_icon_shape_dialog_title">Select icon shape</string>
+
+    <!-- Statusbar icons -->
+    <string name="statusbar_icons_default">Default</string>
+    <string name="statusbar_icons_filled">Filled</string>
+    <string name="statusbar_icons_rounded">Rounded</string>
+    <string name="statusbar_icons_circular">Circular</string>
+    <string name="statusbar_icons_title">Statusbar icons</string>
+    <string name="statusbar_icons_dialog_title">Select statusbar icon set</string>
+
+</resources>
